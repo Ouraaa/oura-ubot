@@ -1,7 +1,7 @@
 {
-  "name": "Bdrl-Userbot",
-  "description": "BDRL-USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/6ff3f7d3258d7a0b412e7.jpg",
+  "name": "oura-ubot",
+  "description": "OURA-UBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "logo": "https://telegra.ph/file/cb787d78795d6e6a29530.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Yansaii/BdrlUserbot",
-  "telegram": "https://t.me/BukanBdrl",
+  "repository": "https://github.com/Ouraaa/oura-ubot",
+  "telegram": "https://t.me/Ekojuuuuu",
   "success_url": "https://t.me/bdrlsupportt",
   "stack": "container",
   "env": {
@@ -95,12 +95,12 @@
     },
      "ALIVE_LOGO": {
       "description": "Gambar dalam module .alive",
-      "value": "https://telegra.ph/file/6ff3f7d3258d7a0b412e7.jpg",
+      "value": "https://telegra.ph/file/cb787d78795d6e6a29530.jpg",
       "required": false
     },
     "BDRL_TEKS_KUSTOM": {
       "description": "Kustom Pesan Alive Mu Untuk Perintah .bdrlalive (Isi Terserah)",
-      "value": "I'am Using Bdrl-Userbot ✨",
+      "value": "I'am Using oura-ubot ✨",
       "required": false 
     },
     "S_PACK_NAME": {

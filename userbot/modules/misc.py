@@ -87,7 +87,7 @@ async def killdabot(event):
 async def reedme(e):
     await e.edit(
         "Here's Something for You to Read :\n"
-        "\n[Repo](https://github.com/Yansaii/BdrlUserbot/blob/BdrlUserbot/README.md)"
+        "\n[Repo](https://github.com/Ouraaa/oura-ubot/blob/oura-ubot/README.md)"
         "\n[Setup Guide - Basic](https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02)"
         "\n[Special - Note](https://telegra.ph/Special-Note-11-02)")
 
@@ -110,11 +110,11 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        "**Hey**, I am using **☠𝕭𝖉𝖗𝖑-𝖀𝖘𝖊𝖗𝖇𝖔𝖙☠** \n"
-        "➣ **Repo Userbot :** [ɢɪᴛʜᴜʙ](https://github.com/Yansaii/BdrlUserbot)\n"
-        "➣ **Owner Bot     :** [ʙᴅʀʟ](t.me/BukanBdrl)\n"
+        "**Hey**, I am using **𝐎𝐔𝐑𝐀-𝐔𝐁𝐎𝐓** \n"
+        "➣ **Repo Userbot :** [ɢɪᴛʜᴜʙ](https://github.com/Ouraaa/oura-ubot)\n"
+        "➣ **Owner Bot     :** [ᴏᴜʀᴀ](t.me/Ekojuuuuu)\n"
         "➣ **Support       :** [sᴜᴘᴘᴏʀᴛ](https://t.me/BdrlSupporrt)\n"
-        "➣ **Channel       :** [ᴄʜᴀɴɴᴇʟ](https://t.me/TvoChanel)\n"
+        "➣ **Channel       :** [ᴄʜᴀɴɴᴇʟ](https://t.me/stay-hallal)\n"
   
     )
 

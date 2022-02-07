@@ -1,15 +1,15 @@
-<h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">𝗕𝗗𝗥𝗟-𝗨𝗕𝗢𝗧<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
+<h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">𝐎𝐔𝐑𝐀-𝐔𝐁𝐎𝐓<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
 
 <p align="center">
-    <a href="https://github.com/Yansaii/Bdrl-Userbot/commits/Bdrl-Userbot"><img src="https://img.shields.io/github/last-commit/Yansaii/Bdrl-Userbot?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
-    <a href="https://github.com/Yansai/Bdrl-Userbot"> <img src="https://img.shields.io/github/repo-size/Yansaii/Bdrl-Userbot?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/Ouraaa/oura-ubot/commits/oura-ubot"><img src="https://img.shields.io/github/last-commit/Ouraaa/oura-ubot?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
+    <a href="https://github.com/Ouraaa/oura-ubot"> <img src="https://img.shields.io/github/repo-size/Ouraaa/oura-ubot?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"><img src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-purple?style=for-the-badge&logo=appveyor"/>
     </p>
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/6ff3f7d3258d7a0b412e7.jpg">
+  <img src="https://telegra.ph/file/cb787d78795d6e6a29530.jpg">
 </p>
 
 
@@ -28,7 +28,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 
 ## Heroku Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yansaii/BdrlUserbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ouraaa/oura-ubot) 
 
 
 ### Support & Updates 

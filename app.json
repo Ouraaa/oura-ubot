@@ -86,7 +86,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "Bdrl-Userbot",
+      "value": "oura-ubot",
       "required": false
     },
     "ALIVE_NAME": {
@@ -98,8 +98,8 @@
       "value": "https://telegra.ph/file/cb787d78795d6e6a29530.jpg",
       "required": false
     },
-    "BDRL_TEKS_KUSTOM": {
-      "description": "Kustom Pesan Alive Mu Untuk Perintah .bdrlalive (Isi Terserah)",
+    "OURA_TEKS_KUSTOM": {
+      "description": "Kustom Pesan Alive Mu Untuk Perintah .ouralalive (Isi Terserah)",
       "value": "I'am Using oura-ubot ✨",
       "required": false 
     },

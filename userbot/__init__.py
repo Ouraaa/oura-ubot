@@ -216,7 +216,7 @@ BITLY_TOKEN = os.environ.get(
     "BITLY_TOKEN") or "o_1fpd9299vp"
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "Bdrl-Userbot")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "oura-ubot")
 
 # Bot Version
 BOT_VER = os.environ.get("BOT_VER", "7.0")

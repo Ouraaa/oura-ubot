@@ -4,6 +4,7 @@ from userbot import CMD_HELP, bot
 GCAST_BLACKLIST = [
     -1001743853750,  # Cariteman
     -1001653425944,  # Bdrl
+    -1001725649746,  # markettblack
 ] 
 
 # Kalo fork atau coppy blacklist jangan dihapus bangsat,
@@ -21,7 +22,7 @@ async def gcast(event):
     else:
         await event.edit("**Berikan Sebuah Pesan atau Balas ke pesan**")
         return
-    kk = await event.edit("`Globally Broadcasting Msg...`")
+    kk = await event.edit("`Gcast mulu dapet doi kagak anjing`")
     er = 0
     done = 0
     async for x in event.client.iter_dialogs():
@@ -36,7 +37,7 @@ async def gcast(event):
             except BaseException:
                 er += 1
     await kk.edit(
-        f"**Berhasil Mengirim Pesan Ke** `{done}` **Grup, Gagal Mengirim Pesan Ke** `{er}` **Grup**"
+        f"**udah ke kirim gcast an lu Ke** `{done}` **grup, mampus batal ke kirim Ke** `{er}` **Grup**"
     )
 
 
@@ -44,10 +45,10 @@ async def gcast(event):
 async def gucast(event):
     xx = event.pattern_match.group(1)
     if not xx:
-        return await event.edit("**Berikan Sebuah Pesan atau Balas ke pesan**")
+        return await event.edit("**Tag dulu goblokkkkk**")
     tt = event.text
     msg = tt[7:]
-    kk = await event.edit("`Globally Broadcasting Msg...`")
+    kk = await event.edit("`sabar ngapa kontolll lagi di kirim...`")
     er = 0
     done = 0
     async for x in bot.iter_dialogs():

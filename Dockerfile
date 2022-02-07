@@ -3,7 +3,7 @@ FROM skyzuxzy/skyzu-userbot:buster
 #━━━━━ Userbot Telegram ━━━━━
 #━━━━━ By Oura-Userbot ━━━━━
 
-RUN git clone -b Skyzuu-Userbot https://github.com/Ouraaa/oura-ubot /root/userbot
+RUN git clone -b oura-ubot https://github.com/Ouraaa/oura-ubot /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot

@@ -1,9 +1,9 @@
 # Using Python Slim-Buster
 FROM vckyouuu/geezprojects:buster
 #━━━━━ Userbot Telegram ━━━━━
-#━━━━━ By Bdrl-userbot ━━━━━
+#━━━━━ By oura-ubot ━━━━━
 
-RUN git clone -b Bdrl-userbot https://github.com/Yansaii/BdrlUserbot /root/userbot
+RUN git clone -b oura-ubot https://github.com/Ouraaa/oura-ubot /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot

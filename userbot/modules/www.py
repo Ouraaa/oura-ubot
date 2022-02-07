@@ -16,14 +16,14 @@ from userbot import CMD_HELP, DEVS, StartTime, ALIVE_NAME
 from userbot.events import register
 
 absen = [
-    "**Hadir ganteng** 🥵",
+    "**Hadir habis ngelonT bng** 🥵",
     "**Hadir bro** 😎",
     "**Hadir kak** 😉",
     "**Hadir bang** 😁",
     "**Hadir kak maap telat** 🥺",
     "**Hadir Sayang** 😳",
-    "**Hadir cok** 😎",
-    "**Hadir jancok** 😎",
+    "**Hadir hbis vcs bng** 😎",
+    "**Hadir kontol** 😎",
 ]
 
 roas = [
@@ -146,7 +146,7 @@ async def redis(pong):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await pong.edit(
-        f"**☠𝕭𝖉𝖗𝖑-𝖀𝖘𝖊𝖗𝖇𝖔𝖙☠**\n"
+        f"**✨𝐎𝐔𝐑𝐀-𝐔𝐁𝐎𝐓✨**\n"
         f"** ▹  Sɪɢɴᴀʟ   :** "
         f"`%sms` \n"
         f"** ▹  Uᴘᴛɪᴍᴇ  :** "
@@ -171,7 +171,7 @@ async def redis(pong):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await pong.edit(
-        f"**☠𝔅𝔡𝔯𝔩-𝔘𝔰𝔢𝔯𝔟𝔬𝔱☠**\n\n"
+        f"*✨𝐎𝐔𝐑𝐀-𝐔𝐁𝐎𝐓✨**\n\n"
         f"** ▹  Sɪɢɴᴀʟ   :** "
         f"`%sms` \n"
         f"** ▹  Uᴘᴛɪᴍᴇ  :** "
@@ -220,7 +220,7 @@ async def speedtst(spd):
         f"`{result['ping']}` \n"
         "✧ **ISP:** "
         f"`{result['client']['isp']}` \n"
-        "✧ **BOT:** ☠𝔅𝔡𝔯𝔩-𝔘𝔰𝔢𝔯𝔟𝔬𝔱☠"
+        "✧ **BOT:** ✨𝐎𝐔𝐑𝐀-𝐔𝐁𝐎𝐓✨"
     )
 
 

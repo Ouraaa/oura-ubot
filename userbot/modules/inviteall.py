@@ -69,7 +69,7 @@ async def get_users(event):
     f = 0
     error = 'None'
 
-    await ram.edit("**Status Terminal**\n\n`Mengumpulkan warga jelata.......`")
+    await ram.edit("**Status Terminal**\n\n`Mengumpulkan kaum jelata.......`")
     async for user in event.client.iter_participants(ramubotteam.full_chat.id):
         try:
             if error.startswith("Too"):

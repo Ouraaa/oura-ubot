@@ -6,6 +6,7 @@ GCAST_BLACKLIST = [
     -1001653425944,  # Bdrl
     -1001725649746,  # markettblack
     -1001473548283,  # SharingBot
+    -1001790258874,  # Kontol
 ] 
 
 # Kalo fork atau coppy blacklist jangan dihapus bangsat,
